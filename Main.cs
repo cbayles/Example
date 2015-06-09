@@ -6,7 +6,7 @@ namespace DiceGame
 {
 	class MainClass
 	{
-		public static void Main (string[] args)
+		public static void Maisdcsdcn (string[] args)
 		{
 			Console.WriteLine ("How many players are going to play??????? (press 'q' at any time to stop the game)");
 			var playerCount = Console.ReadLine();
